@@ -18,5 +18,5 @@ jobs:
 #          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_GITHUB_APPLICATION_E4A37 }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_GITHUB_APP_CODE }}'
           channelId: live
-          projectId: github-application-e4a37
+          projectId: github-app-code
           entryPoint: ./github-app
