@@ -15,4 +15,4 @@ jobs:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_GITHUB_APPLICATION_E4A37 }}'
           projectId: github-application-e4a37
-          entryPoint: ./github-app
+          entryPoint: ./github-app-code
